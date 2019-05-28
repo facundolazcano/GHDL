@@ -1,0 +1,14 @@
+torch>=0.4.1
+numpy
+jpeg4py
+opencv-python
+scikit-image
+torchvision==0.2.1
+tqdm
+PyYAML
+absl-py>=0.4
+grpcio>=1.6.3
+tensorboardX
+torchnet
+catalyst
+git+https://github.com/geoopt/geoopt.git@poincare
